@@ -1,3 +1,8 @@
+```c
+Developed by: KEERTHANA S
+RegisterNumber: 212222230066
+```
+
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
@@ -18,9 +23,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```c
-Developed by: KEERTHANA S
-RegisterNumber: 212222230066
-
 # IMPORT REQUIRED PACKAGE
 import pandas as pd
 import numpy as np
